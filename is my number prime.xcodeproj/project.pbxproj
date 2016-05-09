@@ -15,6 +15,7 @@
 		48225EA51CE0D682007F9CA0 /* is_my_number_primeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48225EA41CE0D682007F9CA0 /* is_my_number_primeTests.swift */; };
 		48225EB01CE0D682007F9CA0 /* is_my_number_primeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48225EAF1CE0D682007F9CA0 /* is_my_number_primeUITests.swift */; };
 		48225EBE1CE0D6EB007F9CA0 /* wall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48225EBD1CE0D6EB007F9CA0 /* wall.jpg */; };
+		48225EC01CE0E1B0007F9CA0 /* prime.png in Resources */ = {isa = PBXBuildFile; fileRef = 48225EBF1CE0E1B0007F9CA0 /* prime.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		48225EAF1CE0D682007F9CA0 /* is_my_number_primeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = is_my_number_primeUITests.swift; sourceTree = "<group>"; };
 		48225EB11CE0D682007F9CA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48225EBD1CE0D6EB007F9CA0 /* wall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wall.jpg; sourceTree = "<group>"; };
+		48225EBF1CE0E1B0007F9CA0 /* prime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = prime.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				48225EAE1CE0D682007F9CA0 /* is my number primeUITests */,
 				48225E8D1CE0D682007F9CA0 /* Products */,
 				48225EBD1CE0D6EB007F9CA0 /* wall.jpg */,
+				48225EBF1CE0E1B0007F9CA0 /* prime.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -234,6 +237,7 @@
 			files = (
 				48225E9A1CE0D682007F9CA0 /* LaunchScreen.storyboard in Resources */,
 				48225E971CE0D682007F9CA0 /* Assets.xcassets in Resources */,
+				48225EC01CE0E1B0007F9CA0 /* prime.png in Resources */,
 				48225E951CE0D682007F9CA0 /* Main.storyboard in Resources */,
 				48225EBE1CE0D6EB007F9CA0 /* wall.jpg in Resources */,
 			);
