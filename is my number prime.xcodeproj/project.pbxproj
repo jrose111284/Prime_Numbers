@@ -14,6 +14,7 @@
 		48225E9A1CE0D682007F9CA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48225E981CE0D682007F9CA0 /* LaunchScreen.storyboard */; };
 		48225EA51CE0D682007F9CA0 /* is_my_number_primeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48225EA41CE0D682007F9CA0 /* is_my_number_primeTests.swift */; };
 		48225EB01CE0D682007F9CA0 /* is_my_number_primeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48225EAF1CE0D682007F9CA0 /* is_my_number_primeUITests.swift */; };
+		48225EBE1CE0D6EB007F9CA0 /* wall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48225EBD1CE0D6EB007F9CA0 /* wall.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		48225EAB1CE0D682007F9CA0 /* is my number primeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "is my number primeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		48225EAF1CE0D682007F9CA0 /* is_my_number_primeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = is_my_number_primeUITests.swift; sourceTree = "<group>"; };
 		48225EB11CE0D682007F9CA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48225EBD1CE0D6EB007F9CA0 /* wall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wall.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				48225EA31CE0D682007F9CA0 /* is my number primeTests */,
 				48225EAE1CE0D682007F9CA0 /* is my number primeUITests */,
 				48225E8D1CE0D682007F9CA0 /* Products */,
+				48225EBD1CE0D6EB007F9CA0 /* wall.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,6 +235,7 @@
 				48225E9A1CE0D682007F9CA0 /* LaunchScreen.storyboard in Resources */,
 				48225E971CE0D682007F9CA0 /* Assets.xcassets in Resources */,
 				48225E951CE0D682007F9CA0 /* Main.storyboard in Resources */,
+				48225EBE1CE0D6EB007F9CA0 /* wall.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
